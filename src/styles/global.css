@@ -11,7 +11,7 @@
     --text: #666666;
     --text-highlight: #B3B9FF;
     --title: #2E384D;
-    --red: #83F5B;
+    --red: #E83F5B;
     --green: #4CD62B;
     --blue: #5965E0;
     --blue-dark: #4953B8;
@@ -28,7 +28,7 @@
     html {
         font-size: 87.5%;
     }
-}c
+}
 
 body {
     background-color: var(--background);
